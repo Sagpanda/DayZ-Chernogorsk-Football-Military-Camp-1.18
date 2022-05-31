@@ -1,4 +1,6 @@
 # Chernogorsk-Football-Military-Camp
+*PLEASE NOTE* - THIS FILE IS INTENDED FOR 1.18 WHICH ISN'T OUT ON STABLE SERVERS AT THE TIME OF WRITING, PLEASE CHECK BEFORE USING THESE FILES IF YOUR GAME IS UPDATED TO 1.18.
+
 This adds a medium sized Military Camp to one of the Football Fields in northern Chernogorsk.
 
 In the top right, press code and download the ZIP file. 
