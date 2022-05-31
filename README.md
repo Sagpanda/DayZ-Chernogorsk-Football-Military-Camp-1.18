@@ -7,7 +7,7 @@ In the top right, press code and download the ZIP file.
 
 Place "Cherno Milcamp.json" into your custom folder. 
 
-Add "custom/Cherno Milcamp" too the objectSpawnersArr line in your server's cfggameplay.json file.
+Add "custom/Cherno Milcamp.json" too the objectSpawnersArr line in your server's cfggameplay.json file.
 
 Add the "Cherno Milcamp (MapsGroupproto).xml" positons which you downloaded into your server's own MapsGroupproto.xml file so your server items spawn into the tents.
 
